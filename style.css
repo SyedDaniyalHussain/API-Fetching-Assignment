@@ -1,0 +1,35 @@
+.heading1 {
+    text-align: center;
+}
+#weather-cart {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 20px;
+}
+
+.card {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+
+#pic-div {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 20px;
+}
+
+.cardforPic{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    width: 300px;
+}
